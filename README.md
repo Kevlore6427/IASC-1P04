@@ -8,4 +8,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the prototype [here](prototype/RealmOfArcana-Prototype)
+Play the prototype [here](prototype/RealmOfArcana-Prototype.html)
